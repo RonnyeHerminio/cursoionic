@@ -9,7 +9,6 @@ import org.springframework.context.annotation.Profile;
 
 import com.ronnye.cursomc.services.DBService;
 import com.ronnye.cursomc.services.EmailService;
-import com.ronnye.cursomc.services.MockEmailService;
 import com.ronnye.cursomc.services.SmtpEmailService;
 
 @Configuration
